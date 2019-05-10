@@ -90,8 +90,9 @@ body{
 	}
 }
 
-#associations {
+.associations {
 	max-width: 767px !important;
-    width: 30% !important;
+    width: 400px !important;
+		height: 400px !important;
     /*height: 300px;*/
 }
