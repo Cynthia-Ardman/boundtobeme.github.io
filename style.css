@@ -28,7 +28,7 @@ body{
 
 .bit {
 	max-height: 25vh;
-  overflow-y: hidden;
+  overflow-y: visible;
   transition: max-height 1s;
 	-webkit-transition: max-height 1s;
 }
@@ -88,4 +88,10 @@ body{
 		margin-top: -7px;
 		height: 35px;
 	}
+}
+
+#associations {
+	max-width: 767px !important;
+    width: 30% !important;
+    /*height: 300px;*/
 }
