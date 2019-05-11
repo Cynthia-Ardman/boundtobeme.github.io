@@ -90,9 +90,11 @@ body{
 	}
 }
 
-.associations {
-	max-width: 767px !important;
-    width: 400px !important;
+.AssociationsTable {
+	max-width: 200px !important;
+    width: 200px !important;
 		height: 400px !important;
+		border: 0px !important;
+		padding: 15px !important;
     /*height: 300px;*/
 }
